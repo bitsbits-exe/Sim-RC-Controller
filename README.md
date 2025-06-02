@@ -9,3 +9,5 @@ Sim-RC-Controller is a Python + Arduino project that bridges the virtual and phy
 - ELRS Module method transmits inputs directly, while the Ardunio Method converts inputs to PPM signal for and existing TX's trainer port.
 
 Any RC vehicle with an ELRS receiver can be used.  Cars, Trucks, Planes, Drones etc.. Be safe and have fun!
+
+Check out the video on how to set things up: www.youtube.com/@bits-bits
