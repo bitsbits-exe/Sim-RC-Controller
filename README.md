@@ -10,7 +10,7 @@ Sim-RC-Controller is a Python + Arduino project that bridges the virtual and phy
 
 Any RC vehicle with an ELRS receiver can be used.  Cars, Trucks, Planes, Drones etc.. Be safe and have fun!
 
-Check out the video on how to set things up: www.youtube.com/@bits-bits
+Check out the video on how to set things up: https://youtu.be/PEY1t0AU1rQ
 ******************************************************************
 Known issues:
 
