@@ -8,8 +8,8 @@
  * digital stream. Each channel's value is represented by the time interval
  * between pulses.
  * 
- * Author: [Your Name]
- * License: [Your License]
+ * Author: bitsbits
+ * License: MIT
  */
 
 //////////////////////CONFIGURATION///////////////////////////////
