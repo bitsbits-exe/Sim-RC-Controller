@@ -25,3 +25,5 @@ Module Method:
 Arduino Method:
 
 - Outputs are a little jittery, I think it's due to how the PPM frames are being generated and the memory buffer size on the pro mini/pro micro.  I wanted to keep the form factor small, but I might need to experiment with larger boards (or figure out how to get CRSF in to the trainer port)
+
+- To avoid the jitters, use an RP2040-Zero instead of a ProMini/ProMicro.
