@@ -1,0 +1,11 @@
+[project]
+name = "sim-rc-controller"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pygame>=2.6.1",
+    "pyserial>=3.5",
+    "crsf_parser>=0.2",
+]
